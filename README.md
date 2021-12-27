@@ -1,10 +1,21 @@
-- 👋 Hi, I’m @BTDeveloperCommunity
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, We are known as @BTDeveloperCommunity
+- 👀 We are interested in Developing Open source project 
+     for the community in our country.Sharing knowledge 
+     and making free educational content and teaching 
+     our youth to make a great careers through our 
+     community.
+- 🌱 We are currently making community guidelines and 
+     in process to built our community platform aka 
+     developer forum,this same platform can be used by
+     any organization and same will be used to built other 
+     platform such as #Artist community, #Writer,# Designer,
+     #Blender, #Youth Foundation etc.
+- 💞️ We are looking for all the ICT sector such as 
+     #Programmer, #Designer, #Content writer, #Blogger,
+     #YouTubers, #Artist, #CEO of Private Sector,
+     #Teacher, #student, #Animator, etc.. to help the community.
 
-<!---
-BTDeveloperCommunity/BTDeveloperCommunity is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+     
+- 📫 contact us  @btdevelopercommunity@gmail.com
+     https://chat.whatsapp.com/ByKjpnV2ajsBiqG140WEI2
+     https://discord.gg/e6sMPFYa
