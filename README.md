@@ -17,5 +17,7 @@
 
      
 - 📫 contact us  @btdevelopercommunity@gmail.com
+     WhatsApp Group
      https://chat.whatsapp.com/ByKjpnV2ajsBiqG140WEI2
+     Discord Server
      https://discord.gg/e6sMPFYa
