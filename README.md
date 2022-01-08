@@ -25,4 +25,5 @@
      https://discord.gg/e6sMPFYa
 
      Website
-     devbt.org
+
+     https://www.devbt.org
