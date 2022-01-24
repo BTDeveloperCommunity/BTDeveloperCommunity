@@ -13,7 +13,7 @@
  📫 Contact Us  
  
 [![image](https://img.shields.io/badge/whatsapp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white)](https://chat.whatsapp.com/ByKjpnV2ajsBiqG140WEI2)
-[![image](https://img.shields.io/badge/discord-7289DA?style=for-the-badge&logo=Discord&logoColor=white)](https://discord.gg/e6sMPFYa)
+[![image](https://img.shields.io/badge/discord-7289DA?style=for-the-badge&logo=Discord&logoColor=white)](https://discord.gg/kfG4Z9qBEb)
 [![image](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BTDeveloperCommunity)
 [![image](https://img.shields.io/badge/email-3357C0?style=for-the-badge&logo=gmail&logoColor=white)](mailto:btdevelopercommunity@gmail.com)
 [![image](https://img.shields.io/badge/Website-1EBBEE?style=for-the-badge&logo=internetexplorer&logoColor=white)](https://www.devbt.org)
