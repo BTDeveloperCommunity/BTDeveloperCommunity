@@ -8,8 +8,6 @@
 
 - 💞️ We are looking for all the ICT sector such as *Programmers, Designers, Content Writers, Bloggers, YouTubers, Artists, CEO of Private Sectors, Teachersm Students, Animators, etc* .... to help the community.
 
-<br />
-
 #
  
  📫 Contact Us and Join the Community
