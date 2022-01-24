@@ -1,4 +1,4 @@
-# *Welcome to Bhutan Developer Community ![Bhutan Developer Community Logo](https://github.com/BTDeveloperCommunity/devbt.org/blob/main/assets/img/favicon.ico)*
+# * ![Bhutan Developer Community Logo](https://github.com/BTDeveloperCommunity/devbt.org/blob/main/assets/img/favicon.ico) Welcome to Bhutan Developer Community*
 
 - 👋 Hello World, we are Bhutan Developer Community
 
