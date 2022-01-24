@@ -9,8 +9,10 @@
 - 💞️ We are looking for all the ICT sector such as *Programmers, Designers, Content Writers, Bloggers, YouTubers, Artists, CEO of Private Sectors, Teachersm Students, Animators, etc* .... to help the community.
 
 <br />
+
+#
  
- 📫 Contact Us  
+ 📫 Contact Us and Join the Community
  
 [![image](https://img.shields.io/badge/whatsapp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white)](https://chat.whatsapp.com/ByKjpnV2ajsBiqG140WEI2)
 [![image](https://img.shields.io/badge/discord-7289DA?style=for-the-badge&logo=Discord&logoColor=white)](https://discord.gg/kfG4Z9qBEb)
