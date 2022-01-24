@@ -1,14 +1,14 @@
 # *Welcome to Bhutan Developer Community*
 
-- 👋 Hello World, we are known as @BTDeveloperCommunity
+- 👋 Hello World, we are Bhutan Developer Community
 
 - 👀 We are interested in developing open source project for the community in our country (Bhutan 🇧🇹). Sharing knowledge and making free educational content and teaching our youth to make a great careers through our community.
 
-- 🌱 We are currently making community guidelines and in process to built our community platform aka developer forum,this same platform can be used by any organization and same will be used to built other platform such as #Artist community, #Writer,# Designer, #Blender, #Youth Foundation etc.
+- 🌱 We are currently making community guidelines and in the process to built our community platform also known as our developer forum, this platform can be used by any organization and it will also be used to built other platform such as a community for *artists, writer, designers, blender artists, or any youth related platforms.*
 
-- 💞️ We are looking for all the ICT sector such as #Programmer, #Designer, #Content writer, #Blogger, #YouTubers, #Artist, #CEO of Private Sector, #Teacher, #student, #Animator, etc.. to help the community.
+- 💞️ We are looking for all the ICT sector such as *Programmers, Designers, Content Writers, Bloggers, YouTubers, Artists, CEO of Private Sectors, Teachersm Students, Animators, etc* .... to help the community.
 
-     <br />
+<br />
  
  📫 Contact Us  
  
