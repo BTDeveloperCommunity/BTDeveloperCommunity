@@ -18,7 +18,8 @@
 [![image](https://img.shields.io/badge/email-3357C0?style=for-the-badge&logo=gmail&logoColor=white)](mailto:btdevelopercommunity@gmail.com)
 [![image](https://img.shields.io/badge/Website-1EBBEE?style=for-the-badge&logo=internetexplorer&logoColor=white)](https://www.devbt.org)
 
-https://github.com/BTDeveloperCommunity/devbt.org/blob/main/assets/img/logo.png
+![Bhutan Developer Community Logo](https://github.com/BTDeveloperCommunity/devbt.org/blob/main/assets/img/logo.png)
+![Bhutan Developer Community Logo](https://github.com/BTDeveloperCommunity/devbt.org/blob/main/assets/img/favicon.ico)
 
 <!-- 
 ### Our GitHub Stats
