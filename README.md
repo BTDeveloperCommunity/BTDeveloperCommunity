@@ -24,7 +24,7 @@
 <p align="center">
   <img src="https://github.com/BTDeveloperCommunity/devbt.org/blob/main/assets/img/logo.png" alt="Bhutan Developer Community Logo" />
 </p>
-<figcaption align="center"><p>Bhutan Developer Community</p></figcaption>
+<p align="center">Bhutan Developer Community</p>
 
 <!-- 
 ### Our GitHub Stats
