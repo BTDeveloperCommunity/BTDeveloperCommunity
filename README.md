@@ -1,4 +1,4 @@
-# <a target="_blank" href="https://www.devbt.org"> <p align="center">Welcome to Bhutan Developer Community</p> </a>
+# <a href="https://www.devbt.org" target="_blank"> <p align="center">Welcome to Bhutan Developer Community</p> </a>
 
 - 👋 Hello World, we are Bhutan Developer Community
 
