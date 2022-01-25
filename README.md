@@ -1,4 +1,4 @@
-# Welcome to Bhutan Developer Community
+# <a href="https://www.devbt.org"> <p align="center">Welcome to Bhutan Developer Community</p> </a>
 
 - 👋 Hello World, we are Bhutan Developer Community
 
@@ -10,23 +10,40 @@
 
 #
  
- 📫 Contact Us and Join the Community
+ ### <p align="center">📫 Contact Us and Join the Community </p>
  
-[![image](https://img.shields.io/badge/whatsapp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white)](https://chat.whatsapp.com/ByKjpnV2ajsBiqG140WEI2)
-[![image](https://img.shields.io/badge/discord-7289DA?style=for-the-badge&logo=Discord&logoColor=white)](https://discord.gg/kfG4Z9qBEb)
-[![image](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BTDeveloperCommunity)
-[![image](https://img.shields.io/badge/email-3357C0?style=for-the-badge&logo=gmail&logoColor=white)](mailto:btdevelopercommunity@gmail.com)
-[![image](https://img.shields.io/badge/Website-1EBBEE?style=for-the-badge&logo=internetexplorer&logoColor=white)](https://www.devbt.org)
-
-<br/>
-<br/>
-
 <p align="center">
-  <img src="https://github.com/BTDeveloperCommunity/devbt.org/blob/main/assets/img/logo.png" alt="Bhutan Developer Community Logo" />
+ <a href="https://chat.whatsapp.com/ByKjpnV2ajsBiqG140WEI2">
+  <img src="https://img.shields.io/badge/whatsapp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white" alt="Bhutan Developer Community's WhatsApp Group" />     
+ </a>
+ <a href="https://discord.gg/kfG4Z9qBEb">
+  <img src="https://img.shields.io/badge/discord-7289DA?style=for-the-badge&logo=Discord&logoColor=white" alt="Bhutan Developer Community's Discord Server" />     
+ </a>
+ <a href="https://github.com/BTDeveloperCommunity">
+  <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" alt="Bhutan Developer Community's GitHub" />     
+ </a>
+ <a href="mailto:btdevelopercommunity@gmail.com">
+  <img src="https://img.shields.io/badge/email-3357C0?style=for-the-badge&logo=gmail&logoColor=white" alt="Bhutan Developer Community's email" />     
+ </a>
+ <a href="https://www.devbt.org">
+  <img src="https://img.shields.io/badge/Website-1EBBEE?style=for-the-badge&logo=internetexplorer&logoColor=white" alt="Bhutan Developer Community's" />     
+ </a>
 </p>
-<p align="center">Bhutan Developer Community</p>
+
+<br/>
+<p align="center">
+ <a href="https://www.devbt.org">
+  <img src="https://github.com/BTDeveloperCommunity/devbt.org/blob/main/assets/img/logo.png" alt="Bhutan Developer Community Logo" />
+ </a>
+</p>
+<a href="https://www.devbt.org">
+ <p align="center">Bhutan Developer Community</p>
+</a>
+
 
 <!-- 
+ * Doesnt Work right now because the api doenst provide infos for community GitHub accounts
+
 ### Our GitHub Stats
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=BTDeveloperCommunity&count_private=true&show_icons=true&include_all_commits=true)
