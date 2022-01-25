@@ -31,7 +31,6 @@
 </p>
 
 <br/>
-
 <p align="center">
  <a href="https://www.devbt.org">
   <img src="https://github.com/BTDeveloperCommunity/devbt.org/blob/main/assets/img/logo.png" alt="Bhutan Developer Community Logo" />
