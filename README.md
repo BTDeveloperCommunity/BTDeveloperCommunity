@@ -1,7 +1,4 @@
-# Welcome to Bhutan Developer Community
-
-<a href="https://www.devbt.org"> <p align="center"># Welcome to Bhutan Developer Community</p> </a>
-# <a href="https://www.devbt.org"> <p align="center"># Welcome to Bhutan Developer Community</p> </a>
+# <a href="https://www.devbt.org"> <p align="center">Welcome to Bhutan Developer Community</p> </a>
 
 - 👋 Hello World, we are Bhutan Developer Community
 
@@ -13,7 +10,7 @@
 
 #
  
- 📫 Contact Us and Join the Community
+ <p align="center"> 📫 Contact Us and Join the Community </p>
  
 <p align="center">
  <a href="https://chat.whatsapp.com/ByKjpnV2ajsBiqG140WEI2">
