@@ -1,6 +1,6 @@
-# <a href="https://www.devbt.org" target="_blank" width="220" height="50"> <p align="center">Welcome to Bhutan Developer Community</p> </a>
+# <a href="https://www.devbt.org" target="_blank"> <p align="center">Welcome to Bhutan Developer Community</p> </a>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=BTDeveloperCommunity&style=flat-square@color=yellow" alt="Community Profile Views"/> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=BTDeveloperCommunity&style=flat-square@color=yellow" alt="Community Profile Views" width="250" height="50"/> </p>
 <p align="center">Our Profile Visits</p>
 
 - 👋 Hello World, we are Bhutan Developer Community
