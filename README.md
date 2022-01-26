@@ -1,6 +1,6 @@
 # <a href="https://www.devbt.org" target="_blank"> <p align="center">Welcome to Bhutan Developer Community</p> </a>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=BTDeveloperCommunity&style=flat-square@color=yellow" alt="Community Profile Views"/> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=BTDeveloperCommunity&style=flat-square@color=yellow" alt="Community Profile Views" width="250" height="50"/> </p>
 <p align="center">Our Profile Visits</p>
 
 - 👋 Hello World, we are Bhutan Developer Community
@@ -24,6 +24,9 @@
  </a>
  <a target="_blank" href="https://discord.gg/kfG4Z9qBEb">
   <img src="https://img.shields.io/badge/discord-7289DA?style=for-the-badge&logo=Discord&logoColor=white" alt="Bhutan Developer Community's Discord Server" />     
+ </a>
+ <a href="https://t.me/+0WfVhQysyQFiOTg1">
+  <img src="https://img.shields.io/badge/Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white" alt="Bhutan Developer Community's Telegram Channel" />   
  </a>
  <a target="_blank" href="https://github.com/BTDeveloperCommunity">
   <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" alt="Bhutan Developer Community's GitHub" />     
