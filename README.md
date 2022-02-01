@@ -1,3 +1,9 @@
+<p align="center">
+ <a target="_blank" href="https://www.devbt.org">
+  <img src="https://devbt.org/assets/images/socials-cover.png" alt="Bhutan Developer Community Logo" />
+ </a>
+</p>
+
 # <a href="https://www.devbt.org" target="_blank"> <p align="center">Welcome to Bhutan Developer Community</p> </a>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=BTDeveloperCommunity&style=flat-square@color=yellow" alt="Community Profile Views" width="250" height="50"/> </p>
